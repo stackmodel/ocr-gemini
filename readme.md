@@ -29,4 +29,6 @@ cd ocr-gemini
 
 4. Run the app using the following command: ```streamlit run app.py```
    This will launch the app in your browser.
+   
+![ocr_1](https://github.com/user-attachments/assets/644af73d-7a03-43e5-a411-bb31603b6311)
 
