@@ -1,7 +1,9 @@
 **OCR App Using Gemini Flash**
+
 This is a Streamlit-based web application that allows users to upload an image and extract readable text from it leveraging Google Gemini Flash model.
 
 **Features**
+
 -  📸 Upload an image in JPG, JPEG, or PNG format.
 -  🤖 Extract text from the uploaded image using the Google Gemini Flash model.
 -  📝 Display the extracted text in a well-organized Markdown format.
@@ -9,6 +11,7 @@ This is a Streamlit-based web application that allows users to upload an image a
 
 
 **Setup Instructions**
+
 1. Clone the repository
 ```
 git clone https://github.com/stackmodel/ocr-gemini.git
