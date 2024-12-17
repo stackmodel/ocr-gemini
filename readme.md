@@ -11,7 +11,7 @@ This is a Streamlit-based web application that allows users to upload an image a
 **Setup Instructions**
 1. Clone the repository
 ```
-git clone 
+git clone https://github.com/stackmodel/ocr-gemini.git
 cd ocr-gemini
 ```
 2. install Dependencies:
